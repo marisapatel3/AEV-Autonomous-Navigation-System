@@ -115,7 +115,7 @@ All nodes communicate over ROS topics, with coordinate frames (`base_link`, `las
 <em>Constructed Map Environment from hector_slam, from Lab 7.</em>
 </p>
 
-### 3. Driver Assist Collision Avoidance
+### 3. Driver-Assist Collision Avoidance
 
 - A potential field method computes a repelling force from every LiDAR point within a set safe distance of the vehicle, and that force gets stronger the closer an obstacle gets.
 - This corrective force is combined with the driver's joystick velocity and steering commands using tunable weighting parameters, so the driver keeps full control when far from obstacles, and the algorithm takes over more of the correction as a collision gets closer.
