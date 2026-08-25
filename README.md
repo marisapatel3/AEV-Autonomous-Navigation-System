@@ -104,7 +104,7 @@ All nodes communicate over ROS topics, with coordinate frames (`base_link`, `las
 - LiDAR based scan matching (`laser_scan_matcher`) was added on top to further correct the pose estimate between consecutive scans, and `hector_slam` was used to build a map of the environment while localizing within it at the same time, confirming the localization pipeline was accurate to about 5cm.
 
 <p align="center">
-<img src="Media/RViz_Visualization_Tool_Point_Cloud_Map_of_Lidar_Surrounding.jpg" alt="Point Cloud" width="380"><br>
+<img src="Media/RViz_Visualization_Tool_Point_Cloud_Map_of_Lidar_Surrounding.jpg" alt="Point Cloud" width="550"><br>
 <em>RViz Point Cloud Map from the LiDAR, from Lab 3.</em>
 </p>
 
