@@ -86,10 +86,14 @@ All nodes communicate over ROS topics, with coordinate frames (`base_link`, `las
 - We used the d- and q-axis current relationship to check motor behaviour, since q-axis current is proportional to motor torque. This let us see forward, stop, and reverse behaviour, including regenerative braking, from live current data.
 
 <p align="center">
-<img src="Media/VESC_Tool_FOC_Identification_Screen.jpg" width="500">
-<img src="Media/VESC_Tool_5000_RPM_Graph.jpg" width="480">
+<img src="Media/VESC_Tool_FOC_Identification_Screen.jpg" alt="FOC Identification" width="500"><br>
+<em>VESC Tool FOC General Tab After the Motor Identification Process, from Lab 4.</em>
 </p>
-<p align="center"><em>VESC Tool FOC General Tab After the Motor Identification Process, and an RPM Graph from Speed Testing, from Lab 4.</em></p>
+
+<p align="center">
+<img src="Media/VESC_Tool_5000_RPM_Graph.jpg" alt="RPM Graph" width="500"><br>
+<em>VESC Tool RPM Graph from Speed Testing, from Lab 4.</em>
+</p>
 
 ### 2. Localization
 
