@@ -109,8 +109,8 @@ All nodes communicate over ROS topics, with coordinate frames (`base_link`, `las
 </p>
 
 <p align="center">
-<img src="Media/RViz_Visualization_Tool_Alignment_of_Frames.jpg" width="380">
-<img src="Media/odom_base_link_Frames.jpg" width="460">
+<img src="Media/RViz_Visualization_Tool_Alignment_of_Frames.jpg" width="360">
+<img src="Media/odom_base_link_Frames.jpg" width="440">
 </p>
 <p align="center"><em>Alignment of the "map" and "imu" Frames in RViz, and Drift Between the "odom" and "base_link" Frames After Driving the Vehicle, from Lab 7.</em></p>
 
