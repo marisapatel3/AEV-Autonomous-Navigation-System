@@ -115,7 +115,7 @@ All nodes communicate over ROS topics, with coordinate frames (`base_link`, `las
 <p align="center"><em>Alignment of the "map" and "imu" Frames in RViz, and Drift Between the "odom" and "base_link" Frames After Driving the Vehicle, from Lab 7.</em></p>
 
 <p align="center">
-<img src="Media/Constructed_Map_Environment.jpg" alt="SLAM map" width="450"><br>
+<img src="Media/Constructed_Map_Environment.jpg" alt="SLAM map" width="550"><br>
 <em>Constructed Map Environment from hector_slam, from Lab 7.</em>
 </p>
 
