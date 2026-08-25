@@ -174,11 +174,18 @@ This launches the VESC driver, LiDAR driver, IMU driver, localization nodes, and
 
 ## Full Reports
 
-[Read the Lab 2 Report: Jetson Nano and ROS Basics](Files/Lab_02_abdela74_ismait1_patem156.pdf)
-[Read the Lab 3 Report: udev Rules and Sensor Data](Files/Lab_03_abdela74_ismait1_patem156.pdf)
-[Read the Lab 4 Report: VESC Motor Parameters and PID Tuning](Files/Lab_04_abdela74_ismait1_patem156.pdf)
-[Read the Lab 5 Report: VESC Control with the Jetson Nano](Files/Lab_05_abdela74_ismait1_patem156.pdf)
-[Read the Lab 6 Report: F1TENTH Simulator and Vehicle Model](Files/Lab_06_abdela74_ismait1_patem156.pdf)
-[Read the Lab 7 Report: Localization and Mapping](Files/Lab_07_abdela74_ismait1_patem156.pdf)
-[Read the Lab 8 Report: Driver-Assist Collision Avoidance](Files/Lab_08_abdela74_ismait1_patem156.pdf)
-[Read the Lab 9 Report: Autonomous Driving with Virtual Barriers](Files/Lab_09_abdela74_ismait1_patem156.pdf)
+[Read the Lab 2 Report: Jetson Nano and ROS Basics](Files/Lab_02_abdela74_ismait1_patem156.pdf)  
+
+[Read the Lab 3 Report: udev Rules and Sensor Data](Files/Lab_03_abdela74_ismait1_patem156.pdf)  
+
+[Read the Lab 4 Report: VESC Motor Parameters and PID Tuning](Files/Lab_04_abdela74_ismait1_patem156.pdf)  
+
+[Read the Lab 5 Report: VESC Control with the Jetson Nano](Files/Lab_05_abdela74_ismait1_patem156.pdf)  
+
+[Read the Lab 6 Report: F1TENTH Simulator and Vehicle Model](Files/Lab_06_abdela74_ismait1_patem156.pdf)  
+
+[Read the Lab 7 Report: Localization and Mapping](Files/Lab_07_abdela74_ismait1_patem156.pdf)  
+
+[Read the Lab 8 Report: Driver-Assist Collision Avoidance](Files/Lab_08_abdela74_ismait1_patem156.pdf)  
+
+[Read the Lab 9 Report: Autonomous Driving with Virtual Barriers](Files/Lab_09_abdela74_ismait1_patem156.pdf)  
