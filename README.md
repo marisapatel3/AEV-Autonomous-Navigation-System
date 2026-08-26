@@ -4,7 +4,7 @@ McMaster ELECENG 3EY4, Jan 2024 – Apr 2025.
  
 Scale model autonomous electric vehicle (AEV) that uses LiDAR, inertial, and wheel odometry data to localize itself in real time, and runs both driver-assist collision avoidance and fully autonomous navigation along with localization.
  
-`Python` `C/C++` `ROS` `Linux` `MATLAB` `Simulink` `IMU` `SLAM` `Nvidia Jetson Nano` `LiDAR` `RGB-D Camera` `VESC Motor Controller`
+`Python` `C/C++` `ROS` `Linux` `MATLAB` `Simulink` `IMU` `SLAM` `NVIDIA Jetson Nano` `LiDAR` `RGB-D Camera` `VESC Motor Controller`
 
 <p align="center">
 <img src="Media/Physical_AEV.jpg" alt="Assembled AEV" width="500"><br>
@@ -30,7 +30,7 @@ Scale model autonomous electric vehicle (AEV) that uses LiDAR, inertial, and whe
 
 ## Overview
 
-The AEV Autonomous Navigation System is a scale model self-driving vehicle built to combine embedded electronics, sensing, and control software into a working autonomous platform. A Nvidia Jetson Nano running ROS coordinates a VESC motor controller with brushless DC drive and servo steering, a LiDAR laser scanner, an inertial measurement unit (IMU), a depth camera, and a joystick for manual driving. Wheel odometry, IMU orientation, and LiDAR based scan matching are combined to localize the vehicle, and that localization is used for both a driver assist collision avoidance mode and a fully autonomous mode that can wall follow, avoid obstacles, and reverse itself out of dead ends.
+The AEV Autonomous Navigation System is a scale model self-driving vehicle built to combine embedded electronics, sensing, and control software into a working autonomous platform. A NVIDIA Jetson Nano running ROS coordinates a VESC motor controller with brushless DC drive and servo steering, a LiDAR laser scanner, an inertial measurement unit (IMU), a depth camera, and a joystick for manual driving. Wheel odometry, IMU orientation, and LiDAR based scan matching are combined to localize the vehicle, and that localization is used for both a driver assist collision avoidance mode and a fully autonomous mode that can wall follow, avoid obstacles, and reverse itself out of dead ends.
 
 ---
 
@@ -40,7 +40,7 @@ The AEV Autonomous Navigation System is a scale model self-driving vehicle built
 
 | Component | Purpose |
 |---|---|
-| Nvidia Jetson Nano | Embedded computer running ROS, coordinating the motor controller, sensors, and control algorithms |
+| NVIDIA Jetson Nano | Embedded computer running ROS, coordinating the motor controller, sensors, and control algorithms |
 | VESC Motor Controller | Drives the brushless DC motor and servo steering based on speed and steering commands from ROS |
 | LiDAR Laser Scanner | Provides 360 degree range data used for localization, collision avoidance, and navigation |
 | Bosch BNO055 Inertial Measurement Unit (IMU) | Provides orientation data (accelerometer, gyroscope, and magnetometer) used to correct wheel odometry drift |
